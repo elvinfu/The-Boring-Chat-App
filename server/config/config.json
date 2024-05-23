@@ -3,7 +3,7 @@
     "username": "root",
     "password": "Test1234!",
     "database": "ChatappDB",
-    "host": "localhost",
+    "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
